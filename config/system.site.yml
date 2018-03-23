@@ -1,0 +1,14 @@
+uuid: e2884509-b228-489f-9077-ef6c77bdf393
+name: sandcamp-demo
+mail: rmy@sagetree.net
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
